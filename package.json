@@ -1,0 +1,29 @@
+{
+  "name": "restful-booker-api-testing",
+  "version": "1.0.0",
+  "description": "Restful Booker API Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadorus/restful-booker-api-testing.git"
+  },
+  "keywords": [
+    "API",
+    "Testing",
+    "API",
+    "Testing"
+  ],
+  "author": "Mateusz Błoch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sadorus/restful-booker-api-testing/issues"
+  },
+  "homepage": "https://github.com/Sadorus/restful-booker-api-testing#readme",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "pactum": "^3.2.4"
+  }
+}
